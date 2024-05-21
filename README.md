@@ -16,14 +16,11 @@ This will launch the application in your default web browser, allowing you to ex
 ## Interface
 
 Below is a snapshot of the user interface:
-
-![Interface Screenshot]((https://github.com/RameenFatimaAli/Movie-Title-Recommender-System/blob/main/Screenshot%202024-05-22%20040506.jpg))
-
+![Screenshot of Interface](https://github.com/RameenFatimaAli/Movie-Title-Recommender-System/assets/120332120/bea1910d-8dd6-457b-b7be-ee38ab6c57b7)
 
 ## How to Contribute
 
 Contributions to improve the Movie Title Recommender System are welcome. Here are some ways you can contribute:
-
 - Reporting bugs
 - Suggesting enhancements
 - Sending pull requests for new or improved features
